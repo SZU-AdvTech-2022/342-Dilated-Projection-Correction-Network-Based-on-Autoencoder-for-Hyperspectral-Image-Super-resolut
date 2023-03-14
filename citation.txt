@@ -1,4 +1,4 @@
-@article{REPO-343,
+@article{REPO-342,
     author = "Wang, Xinya and Ma, Jiayi and Jiang, Junjun and Zhang, Xiao-Ping",
     journal = "Neural Networks",
     pages = "107--119",
