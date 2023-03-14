@@ -1,0 +1,9 @@
+@article{REPO-343,
+    author = "Wang, Xinya and Ma, Jiayi and Jiang, Junjun and Zhang, Xiao-Ping",
+    journal = "Neural Networks",
+    pages = "107--119",
+    publisher = "Elsevier",
+    title = "{Dilated Projection Correction Network Based on Autoencoder for Hyperspectral Image Super-Resolution}",
+    volume = "146",
+    year = "2022"
+}
